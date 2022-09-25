@@ -1,0 +1,14 @@
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/bin/Debug/netcoreapp3.1/finalProjectExample
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/bin/Debug/netcoreapp3.1/finalProjectExample.deps.json
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/bin/Debug/netcoreapp3.1/finalProjectExample.runtimeconfig.json
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/bin/Debug/netcoreapp3.1/finalProjectExample.runtimeconfig.dev.json
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/bin/Debug/netcoreapp3.1/finalProjectExample.dll
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/bin/Debug/netcoreapp3.1/finalProjectExample.pdb
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/obj/Debug/netcoreapp3.1/finalProjectExample.csproj.AssemblyReference.cache
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/obj/Debug/netcoreapp3.1/finalProjectExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/obj/Debug/netcoreapp3.1/finalProjectExample.AssemblyInfoInputs.cache
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/obj/Debug/netcoreapp3.1/finalProjectExample.AssemblyInfo.cs
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/obj/Debug/netcoreapp3.1/finalProjectExample.csproj.CoreCompileInputs.cache
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/obj/Debug/netcoreapp3.1/finalProjectExample.dll
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/obj/Debug/netcoreapp3.1/finalProjectExample.pdb
+/Users/ayan/Projects/finalProjectExample/finalProjectExample/obj/Debug/netcoreapp3.1/finalProjectExample.genruntimeconfig.cache
