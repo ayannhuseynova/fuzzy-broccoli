@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using finalProjectExample.Enum;
 
 namespace finalProjectExample.Models
 {
     public class Account
     {
-        public Enum AccountTyoe { get; set; }
-        public string AccountNumber { get; set; }
+        public AccountType AccountTyoe { get; set; }
+        public int AccountNumber { get; set; }
         public decimal CurrentBalance { get; set; }
         public int WithdrawalLimitPerHour { get; set; }
         public DateTime LastTransactionTime { get; set; }
